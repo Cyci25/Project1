@@ -3,6 +3,7 @@ body {
   color: rgb(254, 68, 230);
   text-align: center;
 }
+
 h2 {
   color: orange;
 }
@@ -15,4 +16,7 @@ body {
 }
 h1 {
   color: yellow;
+}
+.red {
+  font-size: 50%;
 }
